@@ -1,0 +1,11 @@
+{
+	"name": "copyFiles",
+  "version": "0.0.1",
+  "description": "For fun.",
+  "main": "copyFiles.js",
+  "devDependencies": {
+    "fs-extra": "^0.24.0",
+	"minimist": "^1.2.0"
+  }
+
+}
